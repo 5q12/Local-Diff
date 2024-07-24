@@ -1,0 +1,9 @@
+name: LocalDiff 
+version: 1.0.0
+main: app.ccls.localdifficulty.Main
+api-version: 1.21
+description: A plugin to view the local Difficulty with a command /localdifficulty
+authors: [5q12]
+commands:
+  localdifficulty:
+    description: Displays the local difficulty.
